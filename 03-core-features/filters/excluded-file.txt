@@ -1,0 +1,3 @@
+This is sample text that will not trigger github actions.
+
+That is because specified in dod-gh-actions/.github/workflows/03-core-features--04-triggers-and-filters.yaml, this file is to be excluded.
